@@ -4,7 +4,7 @@ import {Link} from 'react-router-dom'
 function Navbar() {
     return (
         <div className="navbar">
-        <div className="logo">Ishwor Movie App</div>
+        <div className="logo">IshWO Movie App</div>
         <div className="menus">
             <ul className="menu">
               <li><Link to='/'>Home</Link></li>

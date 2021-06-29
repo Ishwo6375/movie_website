@@ -17,7 +17,7 @@ const Footer = () => {
                     </div>
                 </div>
                 <p className="copyright">
-        Copyright &copy;2020 IshWO Movie App | All Rights are reserved.
+        Copyright &copy;2021 IshWO Movie App | All Rights are reserved.
       </p>
         </footer>
         )
