@@ -27,3 +27,31 @@
   text-decoration: none;
   margin: 0 1em;
 }
+
+footer{
+    background-color: rgb(42, 39, 39);
+    font-size: 15px;
+    color: #fff;
+}
+
+.inner-footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 2em 3em;
+}
+.footer-text{
+    width: 40%;
+    text-align: justify;
+}
+
+.contact{
+   margin-right: 3rem;
+
+}
+
+.copyright{
+    background-color: #000;
+    text-align: center;
+    padding: 1em;
+}
