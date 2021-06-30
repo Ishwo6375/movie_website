@@ -1,6 +1,7 @@
 import React from 'react'
 
 const Pager = ({page, setPage}) => {
+  
     return (
         <div className="pagination">
         <a  onClick={() =>setPage(--page)}> &laquo;Prev</a>

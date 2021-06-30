@@ -55,8 +55,9 @@ const handleOnChange= (e) => {
        
         <div className="grid">
           {list &&
-            list.map((movie) => (
+            list.map((movie,idx) => (
               <MovieBox
+                key={idx}
                 list={movie}
                 title={movie.title}
                 releaseDate={movie.release_date}
