@@ -1,9 +1,9 @@
 import React from 'react'
 
-function Watchlist() {
+const Watchlist = () => {
     return (
         <div>
-            <h1>Watchlist</h1>
+            Watchlist
         </div>
     )
 }

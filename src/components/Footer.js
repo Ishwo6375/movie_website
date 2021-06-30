@@ -5,7 +5,7 @@ const Footer = () => {
         <footer>
                 <div className="inner-footer">
                     <div className="footer-text">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore possimus labore dignissimos quia qui ad eum, laudantium cum dolores dolorem ipsam placeat voluptate atque culpa nostrum exercitationem dicta quo a!
+                      
                     </div>
                     <div className="contact">
                         <ul className="icons">
